@@ -1,0 +1,46 @@
+body{
+	background-image: url("headerfoto.jpg");
+
+}
+
+.boven{
+	background-color: maroon;
+	width: 99%;
+	height: 200px;
+}
+
+li{
+	list-style-type: none;
+	font-size: 1em;
+	color:white;
+	font-family: 'Righteous', cursive;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Righteous', cursive;
+	color: inherit;
+}
+
+.werk1{
+	height: 400px;
+	width: 400px;
+	background-color: yellow;
+	float: left;
+}
+
+.werk2{
+	height: 400px;
+	width: 400px;
+	background-color: green;
+	float: left;
+}
+
+.werk3{
+	height: 400px;
+	width: 400px;
+	background-color: blue;
+	float: left;
+
+}
+

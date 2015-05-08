@@ -1,0 +1,184 @@
+body{
+	background-image: url("headerfoto.jpg");
+
+}
+
+.boven{
+	background-color: maroon;
+	width: 99%;
+	height: 200px;
+}
+
+li{
+	list-style-type: none;
+	font-size: 1.5em;
+	color:white;
+	font-family: 'Righteous', cursive;
+	padding:5px;
+
+}
+
+.lilinks{
+	padding:20px;
+}
+
+.lirechts{
+	float: right;
+	margin-top: -170px;
+	margin-right: 40px;
+}
+
+a{
+	text-decoration: none;
+	font-family: 'Righteous', cursive;
+	color: inherit;
+}
+.links{
+background-color: firebrick;
+width: 29%;
+height: 400px;
+float: left;
+margin-right: 3%;
+margin-left: 3%;
+margin-top:2%;
+}
+
+.aboutimg{
+	width: 150px;
+	height: 150px;
+	margin-left: 33%;
+}
+
+.midden{
+background-color: firebrick;
+width: 29%;
+height: 400px;
+float: left;
+margin-right:3%;
+margin-top:2%;
+}
+
+h1{
+	text-align: center;
+	font-family: 'Righteous', cursive;
+
+}
+
+.rechts{
+	background-color: firebrick;
+	height: 400px;
+	float: left;
+	width: 29%;
+	margin-top:2%;
+}
+
+.workimg{
+	width: 200px;
+	height: 200px;
+	margin-left: 23%;
+}
+
+p{
+	padding: 5%;
+	text-align: center:;
+}
+
+.werk1{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	margin-left: 170px;
+	background-image: url("work.jpg");
+	background-size: 100%;
+}
+
+.werk2{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	background-image: url("work2.jpg");
+	background-size: 100%;
+}
+
+.werk3{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	background-image: url("work3.jpg");
+	background-size: 100%;
+
+}
+
+.werk4{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	margin-left: 170px;
+	background-image: url("work4.jpg");
+	background-size: 100%;
+
+}
+
+.werk5{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	background-image: url("work5.jpg");
+	background-position: center;
+	background-size: 100%;
+
+}
+
+.werk6{
+	height: 300px;
+	width: 300px;
+	float: left;
+	margin-right: 40px;
+	margin-top: 40px;
+	background-image: url("work6.jpg");
+	background-position: center;
+	background-size: 100%;
+	margin-bottom: 50px;
+
+}
+
+.hoofd{
+	height: 250px;
+	width: 250px;
+	float: left;
+	margin-left: 300px;
+	margin-top: 50px;
+	background-image: url("ik.jpg");
+	background-size: 100%;
+	background-position: center;
+
+}
+
+.info{
+	height:250px;
+	width: 500px;
+	float: left;
+	background-color: maroon;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+
+
+.post1,.post2,.post3,.post4,.post5{
+	width: 600px;
+	height:250px;
+	background-color:salmon;
+	margin-top: 50px;
+	margin-left: 400px;
+	padding:10px;
+}
